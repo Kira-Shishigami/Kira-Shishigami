@@ -20,7 +20,7 @@
 
 <li> 👤 <i>No doubt I Love Death Note </i></li>
 
-<li> 💘 <i>Now im single but i like one girl</i></li>
+<li> 😥 <i>I'm fckin idiot</i></li>
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
